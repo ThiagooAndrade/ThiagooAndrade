@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 👋 Olá, eu me chamo Thiago
+- 👀 Atualmente em busca da minha primeira vaga no mercado de trabalho
+- 🌱 Cursando ADS e estudando python por conta própria
 <!--
 **ThiagooAndrade/ThiagooAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/ThiagooAndrade">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagooAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagooAndrade&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
