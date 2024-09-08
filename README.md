@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThiagooAndrade&show_icons=true&text_color=0e6beb&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagooAndrade&layout=compact&text_color=0e6beb&hide_border=true&langs_count=7&theme=tokyonight"/>
 </div>
-    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagooAndrade&bg_color=000432&color=ffffff&line=6e6bff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
