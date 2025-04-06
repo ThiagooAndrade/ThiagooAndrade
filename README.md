@@ -1,6 +1,5 @@
 ### 👋 Olá, eu me chamo Thiago
-- 👀 Atualmente em busca da minha primeira oportunidade no mercado de trabalho
-- 🌱 Cursando ADS e estudando o universo do desenvolvimento web
+
 <!--
 **ThiagooAndrade/ThiagooAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
